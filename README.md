@@ -4,7 +4,7 @@ Teste de deenvolvimento web da Redfox.
 # Gotcha
 > Site Pokedex com o registro dos 150 pokemons da primeira geração.
 
-# Desenvolimento
+# Desenvolvimento
 
 ## Front-end
 - Bootstrap.
