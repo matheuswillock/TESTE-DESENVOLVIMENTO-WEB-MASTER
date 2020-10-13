@@ -5,9 +5,8 @@ Teste de deenvolvimento web da Redfox.
 > Site Pokedex com o registro dos 150 pokemons da primeira geração.
 
 # Desenvolvimento
-
-## Front-end
+- Front-end
 - Bootstrap.
 
-## Banco de dados
+- Banco de dados
 - Banco de dados construido com o consumo da api do site [@Pokeapi](https://pokeapi.co/)
